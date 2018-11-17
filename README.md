@@ -1,5 +1,7 @@
 # Kontext
 
+Hello there.
+
 ## Overview
 
 This repository contains an EXPERIMENTAL PROTOTYPE, with the goal of
