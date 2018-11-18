@@ -1,8 +1,6 @@
 # Kontext
 
-Hello there.  Another change.
-
-Another commit.
+Hello there. Once again.
 
 ## Overview
 
