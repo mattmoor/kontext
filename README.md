@@ -122,3 +122,4 @@ baz/
 * Handle symlinks
 * Heuristics around whether to reuse the previous image at all
 BLAH
+BLAH
