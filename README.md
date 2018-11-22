@@ -1,5 +1,7 @@
 # Kontext
 
+A simple edit.
+
 ## Overview
 
 This repository contains an EXPERIMENTAL PROTOTYPE, with the goal of
