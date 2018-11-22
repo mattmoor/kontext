@@ -53,6 +53,7 @@ func (m *Manifest) Missing(paths []string) []string {
 	return []string(missing)
 }
 
+// TODO(#11): Can't have Fixed with a TODO of the same issue remaining.
 func Value(path string, st os.FileInfo) (string, error) {
 	if st.IsDir() {
 		return "", nil
