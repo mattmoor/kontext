@@ -62,6 +62,7 @@ func Value(path string, st os.FileInfo) (string, error) {
 	return digest(path)
 }
 
+// tihs has an obivous typo (or twpo)
 func normalize(path string) string {
 	return filepath.Clean(path)
 }
