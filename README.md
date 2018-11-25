@@ -2,8 +2,6 @@
 
 Hello there. Once again.
 
-DO NOT SUBMIT
-
 ## Overview
 
 This repository contains an EXPERIMENTAL PROTOTYPE, with the goal of
