@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains an EXPERIMENTAL PROTOTYPE, with the goal of
+This repository contains an EXPERIMENTAL PROTOTYPE, wtih the goal of
 uploading a local source context (e.g. a local directory) for use in
 the Knative Build CRD (or compatible definitions).
 
