@@ -124,7 +124,5 @@ TODO(#11): Blah blah
 * Handle symlinks
 * Heuristics around whether to reuse the previous image at all
 BLAH
-DO NOT SUBMIT
 BLAH
 BLAH
-DO NOT SUBMIT
