@@ -2,6 +2,8 @@
 
 Hello there. Once again.
 
+DO NOT SUBMIT
+
 ## Overview
 
 This repository contains an EXPERIMENTAL PROTOTYPE, with the goal of
@@ -124,5 +126,6 @@ TODO(#11): Blah blah
 * Handle symlinks
 * Heuristics around whether to reuse the previous image at all
 BLAH
+DO NOT SUBMIT
 BLAH
 BLAH
