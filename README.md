@@ -2,6 +2,8 @@
 
 ## Overview
 
+Random mid-file edit
+
 This repository contains an EXPERIMENTAL PROTOTYPE, with the goal of
 uploading a local source context (e.g. a local directory) for use in
 the Knative Build CRD (or compatible definitions).
@@ -36,7 +38,7 @@ ADD <manifest> /var/lib/kontext/manifest.json
 ```
 
 So without Docker, we effectively assemble the source directory into a container
-image, which can be done by invoking:
+image, which can be done by invoking:   
 
 ```
 go run ./cmd/kontext/main.go --directory=/path/to/directory --tag=gcr.io/project/image:tag
@@ -119,3 +121,5 @@ baz/
 * Handle layer limits
 * Handle symlinks
 * Heuristics around whether to reuse the previous image at all
+
+Edit at end of file with newline
